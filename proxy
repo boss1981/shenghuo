@@ -1,5 +1,9 @@
 1,install chrome
 2,install SwitchyOmega
-https://github.com/FelisCatus/SwitchyOmega/releases
+  https://github.com/FelisCatus/SwitchyOmega/releases
+  2.1 new 情景模式(auto proxy)
+  2.2 规则列表地址设为，
+      https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+      然后更新。
 3,install XX-Net
-https://github.com/XX-net/XX-Net/blob/master/code/default/download.md
+  https://github.com/XX-net/XX-Net/blob/master/code/default/download.md
